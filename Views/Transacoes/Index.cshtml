@@ -1,0 +1,120 @@
+﻿@model IEnumerable<Teste_K2iP.Models.Transacoes>
+
+<h1>Transações</h1>
+    <p style="margin: 20px 0">
+        <a asp-action="Create">Criar Novo</a>
+    </p>
+
+    @{Html.BeginForm("ExportCSVFile", "Transacoes", FormMethod.Get);
+        {
+            <div style="margin: 20px 0">
+                <input type="submit" value="Exportar Tabela" style="width:150px;height:35px;margin:10px;background-color:white;" />
+            </div>
+        }
+        Html.EndForm();
+    }
+
+@using (Html.BeginForm("Index", "Transacoes", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <div class="row" style="margin:20px 0">
+        <div>
+            <h4>@ViewBag.Title</h4>
+        </div>
+        <div class="col-md-8" style="width: 30%">
+            Escolha o Adquirente:
+            @*Passando o Nome da ViewBag*@
+
+            @Html.DropDownList("AdquirenteId", (IEnumerable<SelectListItem>)ViewBag.Adquirentes, "Selecionar Todos", new { @class = "form-control" })
+
+            @*<input type="submit" value="Enviar" class="btn btn-default" />*@
+            <a>Requisição Indiponível</a>
+        </div>
+    </div>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Adquirente)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CodigoCliente)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataTransacao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HoraTransacao)
+            </th>
+            @*<th>
+                    @Html.DisplayNameFor(model => model.NumeroCartao)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CodigoAutorizacao)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.NSU)
+                </th>*@
+            <th>
+                @Html.DisplayNameFor(model => model.Bandeira)
+            </th>
+            @*<th>
+                    @Html.DisplayNameFor(model => model.ValorBruto)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.TaxaAdmin)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ValorLiquido)
+                </th>*@
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Adquirente.Descricao)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CodigoCliente)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DataTransacao)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.HoraTransacao)
+                </td>
+                @*<td>
+                        @Html.DisplayFor(modelItem => item.NumeroCartao)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CodigoAutorizacao)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NSU)
+                    </td>*@
+                <td>
+                    @Html.DisplayFor(modelItem => item.Bandeira.Descricao)
+                </td>
+                @*<td>
+                        @Html.DisplayFor(modelItem => item.ValorBruto)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TaxaAdmin)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ValorLiquido)
+                    </td>*@
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ID">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@item.ID">Detalhes</a> |
+                    <a asp-action="Delete" asp-route-id="@item.ID">Deletar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

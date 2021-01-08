@@ -1,0 +1,81 @@
+﻿@model Teste_K2iP.Models.Transacoes
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Criar</h1>
+
+<h4>Transções</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Adquirente" class="control-label"></label>
+                <select asp-for="AdquirenteId" class ="form-control" asp-items="@(new SelectList(ViewBag.Adquirentes,"Id","Descricao"))"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="CodigoCliente" class="control-label">Código Cliente</label>
+                <input asp-for="CodigoCliente" class="form-control" />
+                <span asp-validation-for="CodigoCliente" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DataTransacao" class="control-label">Data Transação</label>
+                <input asp-for="DataTransacao" class="form-control" />
+                <span asp-validation-for="DataTransacao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HoraTransacao" class="control-label">Hora Transação</label>
+                <input asp-for="HoraTransacao" class="form-control" />
+                <span asp-validation-for="HoraTransacao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NumeroCartao" class="control-label">Número Cartão</label>
+                <input asp-for="NumeroCartao" class="form-control" />
+                <span asp-validation-for="NumeroCartao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CodigoAutorizacao" class="control-label">Código Autorização</label>
+                <input asp-for="CodigoAutorizacao" class="form-control" />
+                <span asp-validation-for="CodigoAutorizacao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NSU" class="control-label">NSU</label>
+                <input asp-for="NSU" class="form-control" />
+                <span asp-validation-for="NSU" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Bandeira" class="control-label">Bandeira</label>
+                <select asp-for="BandeiraId" class="form-control" asp-items="@(new SelectList(ViewBag.Bandeiras,"Id","Descricao"))"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="ValorBruto" class="control-label">Valor Bruto</label>
+                <input asp-for="ValorBruto" class="form-control" />
+                <span asp-validation-for="ValorBruto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TaxaAdmin" class="control-label"> Taxa Admin</label>
+                <input asp-for="TaxaAdmin" class="form-control" />
+                <span asp-validation-for="TaxaAdmin" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ValorLiquido" class="control-label">Valor Líquido</label>
+                <input asp-for="ValorLiquido" class="form-control" />
+                <span asp-validation-for="ValorLiquido" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Criar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Voltar para Lista</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

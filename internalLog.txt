@@ -1,0 +1,661 @@
+2021-01-06 13:52:08.5942 Info Message Template Auto Format enabled
+2021-01-06 13:52:08.6235 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-06 13:52:08.7063 Info Adding target FileTarget(Name=alldata)
+2021-01-06 13:52:08.7236 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-06 13:52:08.8136 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-06 14:12:33.3734 Info Message Template Auto Format enabled
+2021-01-06 14:12:33.3957 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-06 14:12:33.4694 Info Adding target FileTarget(Name=alldata)
+2021-01-06 14:12:33.4803 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-06 14:12:33.5427 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-06 14:13:32.7481 Info Message Template Auto Format enabled
+2021-01-06 14:13:32.7668 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-06 14:13:32.8560 Info Adding target FileTarget(Name=alldata)
+2021-01-06 14:13:32.8720 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-06 14:13:32.9307 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-06 14:15:34.2387 Info Message Template Auto Format enabled
+2021-01-06 14:15:34.2533 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-06 14:15:34.3115 Info Adding target FileTarget(Name=alldata)
+2021-01-06 14:15:34.3214 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-06 14:15:34.3723 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-06 14:16:09.3175 Info Message Template Auto Format enabled
+2021-01-06 14:16:09.3381 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-06 14:16:09.4599 Info Adding target FileTarget(Name=alldata)
+2021-01-06 14:16:09.4703 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-06 14:16:09.5351 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-06 14:17:55.7878 Info Message Template Auto Format enabled
+2021-01-06 14:17:55.8066 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-06 14:17:55.9250 Info Adding target FileTarget(Name=alldata)
+2021-01-06 14:17:55.9352 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-06 14:17:55.9802 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-06 14:19:57.5700 Info Message Template Auto Format enabled
+2021-01-06 14:19:57.5880 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-06 14:19:57.6774 Info Adding target FileTarget(Name=alldata)
+2021-01-06 14:19:57.6896 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-06 14:19:57.7531 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-06 14:45:05.3533 Info Message Template Auto Format enabled
+2021-01-06 14:45:05.3750 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-06 14:45:05.4642 Info Adding target FileTarget(Name=alldata)
+2021-01-06 14:45:05.4642 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-06 14:45:05.5509 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-06 15:17:03.9634 Info Message Template Auto Format enabled
+2021-01-06 15:17:03.9952 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-06 15:17:04.0802 Info Adding target FileTarget(Name=alldata)
+2021-01-06 15:17:04.0963 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-06 15:17:04.1540 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-06 15:39:55.7415 Info Message Template Auto Format enabled
+2021-01-06 15:39:55.7808 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-06 15:39:55.8985 Info Adding target FileTarget(Name=alldata)
+2021-01-06 15:39:55.9590 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-06 15:39:56.0243 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-06 16:25:36.3244 Info Message Template Auto Format enabled
+2021-01-06 16:25:36.3399 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-06 16:25:36.4272 Info Adding target FileTarget(Name=alldata)
+2021-01-06 16:25:36.4481 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-06 16:25:36.5037 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-06 16:51:01.8329 Info Message Template Auto Format enabled
+2021-01-06 16:51:01.8628 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-06 16:51:01.9474 Info Adding target FileTarget(Name=alldata)
+2021-01-06 16:51:01.9745 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-06 16:51:02.0296 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-06 17:01:22.9685 Info Message Template Auto Format enabled
+2021-01-06 17:01:22.9972 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-06 17:01:23.1116 Info Adding target FileTarget(Name=alldata)
+2021-01-06 17:01:23.1297 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-06 17:01:23.1947 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-06 17:06:11.8456 Info Message Template Auto Format enabled
+2021-01-06 17:06:11.8575 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-06 17:06:11.9135 Info Adding target FileTarget(Name=alldata)
+2021-01-06 17:06:11.9135 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-06 17:06:11.9559 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 09:55:18.8396 Info Message Template Auto Format enabled
+2021-01-07 09:55:18.8642 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 09:55:18.9606 Info Adding target FileTarget(Name=alldata)
+2021-01-07 09:55:18.9856 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 09:55:19.0333 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 09:57:07.2989 Info Message Template Auto Format enabled
+2021-01-07 09:57:07.3155 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 09:57:07.3744 Info Adding target FileTarget(Name=alldata)
+2021-01-07 09:57:07.3812 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 09:57:07.4166 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 10:31:41.6501 Info Message Template Auto Format enabled
+2021-01-07 10:31:41.6793 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 10:31:41.7583 Info Adding target FileTarget(Name=alldata)
+2021-01-07 10:31:41.7861 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 10:31:41.8443 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 11:13:53.7724 Info Message Template Auto Format enabled
+2021-01-07 11:13:53.7897 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 11:13:53.8718 Info Adding target FileTarget(Name=alldata)
+2021-01-07 11:13:53.8792 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 11:13:53.9113 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 11:33:15.3435 Info Message Template Auto Format enabled
+2021-01-07 11:33:15.3548 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 11:33:15.4008 Info Adding target FileTarget(Name=alldata)
+2021-01-07 11:33:15.4008 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 11:33:15.4406 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 11:34:06.1628 Info Message Template Auto Format enabled
+2021-01-07 11:34:06.1628 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 11:34:06.2255 Info Adding target FileTarget(Name=alldata)
+2021-01-07 11:34:06.2255 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 11:34:06.2639 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 12:03:31.1800 Info Message Template Auto Format enabled
+2021-01-07 12:03:31.1800 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 12:03:31.2369 Info Adding target FileTarget(Name=alldata)
+2021-01-07 12:03:31.2440 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 12:03:31.2763 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 12:05:11.5166 Info Message Template Auto Format enabled
+2021-01-07 12:05:11.5365 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 12:05:11.6155 Info Adding target FileTarget(Name=alldata)
+2021-01-07 12:05:11.6675 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 12:05:11.7654 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 13:08:21.6242 Info Message Template Auto Format enabled
+2021-01-07 13:08:21.6491 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 13:08:21.7326 Info Adding target FileTarget(Name=alldata)
+2021-01-07 13:08:21.7545 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 13:08:21.8092 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 13:24:20.5989 Info Message Template Auto Format enabled
+2021-01-07 13:24:20.6122 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 13:24:20.6660 Info Adding target FileTarget(Name=alldata)
+2021-01-07 13:24:20.6736 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 13:24:20.7089 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 13:34:51.9153 Info Message Template Auto Format enabled
+2021-01-07 13:34:51.9290 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 13:34:51.9821 Info Adding target FileTarget(Name=alldata)
+2021-01-07 13:34:51.9895 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 13:34:52.0261 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 14:48:53.0530 Info Message Template Auto Format enabled
+2021-01-07 14:48:53.0693 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 14:48:53.1325 Info Adding target FileTarget(Name=alldata)
+2021-01-07 14:48:53.1474 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 14:48:53.1869 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 15:28:03.3092 Info Message Template Auto Format enabled
+2021-01-07 15:28:03.3417 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 15:28:03.4303 Info Adding target FileTarget(Name=alldata)
+2021-01-07 15:28:03.4404 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 15:28:03.4944 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 15:31:09.5225 Info Message Template Auto Format enabled
+2021-01-07 15:31:09.5416 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 15:31:09.6187 Info Adding target FileTarget(Name=alldata)
+2021-01-07 15:31:09.6549 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 15:31:09.7042 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 15:36:03.8134 Info Message Template Auto Format enabled
+2021-01-07 15:36:03.8277 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 15:36:03.8844 Info Adding target FileTarget(Name=alldata)
+2021-01-07 15:36:03.8923 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 15:36:03.9379 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 15:36:43.4500 Info Message Template Auto Format enabled
+2021-01-07 15:36:43.4671 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 15:36:43.5290 Info Adding target FileTarget(Name=alldata)
+2021-01-07 15:36:43.5385 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 15:36:43.5774 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 15:50:57.1979 Info Message Template Auto Format enabled
+2021-01-07 15:50:57.2151 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 15:50:57.2933 Info Adding target FileTarget(Name=alldata)
+2021-01-07 15:50:57.3084 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 15:50:57.3534 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 15:53:57.1236 Info Message Template Auto Format enabled
+2021-01-07 15:53:57.1358 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 15:53:57.1890 Info Adding target FileTarget(Name=alldata)
+2021-01-07 15:53:57.1995 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 15:53:57.2349 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 15:56:08.8937 Info Message Template Auto Format enabled
+2021-01-07 15:56:08.9097 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 15:56:08.9737 Info Adding target FileTarget(Name=alldata)
+2021-01-07 15:56:08.9737 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 15:56:09.0171 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 15:57:17.8604 Info Message Template Auto Format enabled
+2021-01-07 15:57:17.8758 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 15:57:17.9207 Info Adding target FileTarget(Name=alldata)
+2021-01-07 15:57:17.9284 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 15:57:17.9777 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 16:07:31.5072 Info Message Template Auto Format enabled
+2021-01-07 16:07:31.5287 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 16:07:31.6308 Info Adding target FileTarget(Name=alldata)
+2021-01-07 16:07:31.6429 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 16:07:31.6782 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 16:35:14.2503 Info Message Template Auto Format enabled
+2021-01-07 16:35:14.2672 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 16:35:14.3263 Info Adding target FileTarget(Name=alldata)
+2021-01-07 16:35:14.3335 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 16:35:14.3760 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 16:39:00.8655 Info Message Template Auto Format enabled
+2021-01-07 16:39:00.8792 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 16:39:00.9282 Info Adding target FileTarget(Name=alldata)
+2021-01-07 16:39:00.9282 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 16:39:00.9965 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 16:45:45.8595 Info Message Template Auto Format enabled
+2021-01-07 16:45:45.8717 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 16:45:45.9190 Info Adding target FileTarget(Name=alldata)
+2021-01-07 16:45:45.9273 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 16:45:45.9646 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 16:47:00.3196 Info Message Template Auto Format enabled
+2021-01-07 16:47:00.3363 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 16:47:00.3830 Info Adding target FileTarget(Name=alldata)
+2021-01-07 16:47:00.3830 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 16:47:00.4245 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 17:09:35.7661 Info Message Template Auto Format enabled
+2021-01-07 17:09:35.8066 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 17:09:35.8863 Info Adding target FileTarget(Name=alldata)
+2021-01-07 17:09:35.8965 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 17:09:35.9334 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 17:14:16.2738 Info Message Template Auto Format enabled
+2021-01-07 17:14:16.2859 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 17:14:16.3404 Info Adding target FileTarget(Name=alldata)
+2021-01-07 17:14:16.3506 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 17:14:16.3880 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 17:17:57.7272 Info Message Template Auto Format enabled
+2021-01-07 17:17:57.7395 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 17:17:57.7873 Info Adding target FileTarget(Name=alldata)
+2021-01-07 17:17:57.7873 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 17:17:57.8357 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 17:21:24.7517 Info Message Template Auto Format enabled
+2021-01-07 17:21:24.7728 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 17:21:24.8378 Info Adding target FileTarget(Name=alldata)
+2021-01-07 17:21:24.8472 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 17:21:24.8876 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 17:22:17.5944 Info Message Template Auto Format enabled
+2021-01-07 17:22:17.6091 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 17:22:17.6644 Info Adding target FileTarget(Name=alldata)
+2021-01-07 17:22:17.6644 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 17:22:17.7060 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 17:23:08.0799 Info Message Template Auto Format enabled
+2021-01-07 17:23:08.0799 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 17:23:08.1400 Info Adding target FileTarget(Name=alldata)
+2021-01-07 17:23:08.1999 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 17:23:08.2440 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 17:23:45.2075 Info Message Template Auto Format enabled
+2021-01-07 17:23:45.2075 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 17:23:45.2668 Info Adding target FileTarget(Name=alldata)
+2021-01-07 17:23:45.2744 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 17:23:45.3081 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 17:24:15.4661 Info Message Template Auto Format enabled
+2021-01-07 17:24:15.4781 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 17:24:15.5235 Info Adding target FileTarget(Name=alldata)
+2021-01-07 17:24:15.5235 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 17:24:15.5669 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 17:35:30.8735 Info Message Template Auto Format enabled
+2021-01-07 17:35:30.8862 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 17:35:30.9335 Info Adding target FileTarget(Name=alldata)
+2021-01-07 17:35:30.9425 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 17:35:30.9794 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 17:45:06.7673 Info Message Template Auto Format enabled
+2021-01-07 17:45:06.7798 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 17:45:06.8292 Info Adding target FileTarget(Name=alldata)
+2021-01-07 17:45:06.8365 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 17:45:06.8680 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 18:05:41.7216 Info Message Template Auto Format enabled
+2021-01-07 18:05:41.7373 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 18:05:41.7919 Info Adding target FileTarget(Name=alldata)
+2021-01-07 18:05:41.7986 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 18:05:41.8303 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 18:08:25.5110 Info Message Template Auto Format enabled
+2021-01-07 18:08:25.5283 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 18:08:25.6259 Info Adding target FileTarget(Name=alldata)
+2021-01-07 18:08:25.6532 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 18:08:25.8134 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 18:10:34.4900 Info Message Template Auto Format enabled
+2021-01-07 18:10:34.5059 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 18:10:34.5730 Info Adding target FileTarget(Name=alldata)
+2021-01-07 18:10:34.5840 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 18:10:34.6281 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 18:31:15.9843 Info Message Template Auto Format enabled
+2021-01-07 18:31:15.9977 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 18:31:16.0513 Info Adding target FileTarget(Name=alldata)
+2021-01-07 18:31:16.0513 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 18:31:16.0902 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 18:35:38.7619 Info Message Template Auto Format enabled
+2021-01-07 18:35:38.7805 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 18:35:38.8541 Info Adding target FileTarget(Name=alldata)
+2021-01-07 18:35:38.8687 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 18:35:38.9407 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 18:36:15.5236 Info Message Template Auto Format enabled
+2021-01-07 18:36:15.5406 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 18:36:15.6451 Info Adding target FileTarget(Name=alldata)
+2021-01-07 18:36:15.7146 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 18:36:15.7745 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 18:37:38.2276 Info Message Template Auto Format enabled
+2021-01-07 18:37:38.2708 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 18:37:38.3680 Info Adding target FileTarget(Name=alldata)
+2021-01-07 18:37:38.3778 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 18:37:38.4380 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 18:43:24.8991 Info Message Template Auto Format enabled
+2021-01-07 18:43:24.9154 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 18:43:24.9712 Info Adding target FileTarget(Name=alldata)
+2021-01-07 18:43:24.9712 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 18:43:25.0140 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 18:44:25.7700 Info Message Template Auto Format enabled
+2021-01-07 18:44:25.7700 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 18:44:25.8297 Info Adding target FileTarget(Name=alldata)
+2021-01-07 18:44:25.8365 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 18:44:25.8716 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 18:52:22.5193 Info Message Template Auto Format enabled
+2021-01-07 18:52:22.5359 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 18:52:22.5951 Info Adding target FileTarget(Name=alldata)
+2021-01-07 18:52:22.6027 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 18:52:22.6372 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 18:56:12.3713 Info Message Template Auto Format enabled
+2021-01-07 18:56:12.3859 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 18:56:12.4937 Info Adding target FileTarget(Name=alldata)
+2021-01-07 18:56:12.5123 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 18:56:12.5558 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 19:12:11.2159 Info Message Template Auto Format enabled
+2021-01-07 19:12:11.2281 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 19:12:11.2741 Info Adding target FileTarget(Name=alldata)
+2021-01-07 19:12:11.2741 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 19:12:11.3219 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 19:15:26.5717 Info Message Template Auto Format enabled
+2021-01-07 19:15:26.6475 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 19:15:26.8985 Info Adding target FileTarget(Name=alldata)
+2021-01-07 19:15:26.9145 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 19:15:26.9544 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 19:16:47.9031 Info Message Template Auto Format enabled
+2021-01-07 19:16:47.9152 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 19:16:47.9700 Info Adding target FileTarget(Name=alldata)
+2021-01-07 19:16:47.9818 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 19:16:48.0213 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 19:17:58.8502 Info Message Template Auto Format enabled
+2021-01-07 19:17:58.8626 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 19:17:58.9091 Info Adding target FileTarget(Name=alldata)
+2021-01-07 19:17:58.9091 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 19:17:58.9600 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 19:25:21.1182 Info Message Template Auto Format enabled
+2021-01-07 19:25:21.1311 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 19:25:21.1792 Info Adding target FileTarget(Name=alldata)
+2021-01-07 19:25:21.1792 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 19:25:21.2217 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 19:27:41.6613 Info Message Template Auto Format enabled
+2021-01-07 19:27:41.6613 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 19:27:41.7189 Info Adding target FileTarget(Name=alldata)
+2021-01-07 19:27:41.7266 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 19:27:41.7604 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 19:32:06.7097 Info Message Template Auto Format enabled
+2021-01-07 19:32:06.7255 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 19:32:06.7865 Info Adding target FileTarget(Name=alldata)
+2021-01-07 19:32:06.7865 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 19:32:06.8389 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 20:12:18.2888 Info Message Template Auto Format enabled
+2021-01-07 20:12:18.3044 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 20:12:18.3709 Info Adding target FileTarget(Name=alldata)
+2021-01-07 20:12:18.3791 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 20:12:18.4282 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 20:13:58.6064 Info Message Template Auto Format enabled
+2021-01-07 20:13:58.6187 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 20:13:58.6674 Info Adding target FileTarget(Name=alldata)
+2021-01-07 20:13:58.6742 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 20:13:58.7070 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 20:17:40.5361 Info Message Template Auto Format enabled
+2021-01-07 20:17:40.5361 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 20:17:40.5961 Info Adding target FileTarget(Name=alldata)
+2021-01-07 20:17:40.5961 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 20:17:40.6355 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 20:19:04.3655 Info Message Template Auto Format enabled
+2021-01-07 20:19:04.3829 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 20:19:04.5355 Info Adding target FileTarget(Name=alldata)
+2021-01-07 20:19:04.5355 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 20:19:04.5762 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 20:20:52.3899 Info Message Template Auto Format enabled
+2021-01-07 20:21:28.3211 Info Message Template Auto Format enabled
+2021-01-07 20:21:28.3338 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 20:21:28.3944 Info Adding target FileTarget(Name=alldata)
+2021-01-07 20:21:28.3944 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 20:21:28.4490 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 23:30:14.2522 Info Message Template Auto Format enabled
+2021-01-07 23:30:14.2743 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 23:30:14.3381 Info Adding target FileTarget(Name=alldata)
+2021-01-07 23:30:14.3550 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 23:30:14.3944 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 23:37:27.7808 Info Message Template Auto Format enabled
+2021-01-07 23:37:27.7938 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 23:37:27.8408 Info Adding target FileTarget(Name=alldata)
+2021-01-07 23:37:27.8478 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 23:37:27.8825 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 23:40:47.5037 Info Message Template Auto Format enabled
+2021-01-07 23:40:47.5183 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 23:40:47.5695 Info Adding target FileTarget(Name=alldata)
+2021-01-07 23:40:47.5695 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 23:40:47.6191 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 23:43:40.6330 Info Message Template Auto Format enabled
+2021-01-07 23:43:40.6459 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 23:43:40.6998 Info Adding target FileTarget(Name=alldata)
+2021-01-07 23:43:40.7079 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 23:43:40.7423 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 23:45:52.3731 Info Message Template Auto Format enabled
+2021-01-07 23:45:52.3871 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 23:45:52.4439 Info Adding target FileTarget(Name=alldata)
+2021-01-07 23:45:52.4439 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 23:45:52.4844 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 23:46:41.4945 Info Message Template Auto Format enabled
+2021-01-07 23:46:41.5538 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 23:46:41.6457 Info Adding target FileTarget(Name=alldata)
+2021-01-07 23:46:41.6787 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 23:46:41.7525 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 23:49:57.0348 Info Message Template Auto Format enabled
+2021-01-07 23:49:57.0348 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 23:49:57.0947 Info Adding target FileTarget(Name=alldata)
+2021-01-07 23:49:57.1020 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 23:49:57.1390 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-07 23:56:59.6873 Info Message Template Auto Format enabled
+2021-01-07 23:56:59.7015 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-07 23:56:59.7494 Info Adding target FileTarget(Name=alldata)
+2021-01-07 23:56:59.7565 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-07 23:56:59.7939 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 00:00:48.3311 Info Message Template Auto Format enabled
+2021-01-08 00:00:48.3311 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 00:00:48.3968 Info Adding target FileTarget(Name=alldata)
+2021-01-08 00:00:48.3968 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 00:00:48.4461 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 00:10:59.6376 Info Message Template Auto Format enabled
+2021-01-08 00:10:59.6514 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 00:10:59.7022 Info Adding target FileTarget(Name=alldata)
+2021-01-08 00:10:59.7097 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 00:10:59.7466 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 00:13:10.4141 Info Message Template Auto Format enabled
+2021-01-08 00:13:10.4321 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 00:13:10.5094 Info Adding target FileTarget(Name=alldata)
+2021-01-08 00:13:10.5196 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 00:13:10.5611 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 00:14:24.6955 Info Message Template Auto Format enabled
+2021-01-08 00:14:24.7109 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 00:14:24.7608 Info Adding target FileTarget(Name=alldata)
+2021-01-08 00:14:24.7678 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 00:14:24.8062 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 00:52:59.1911 Info Message Template Auto Format enabled
+2021-01-08 00:52:59.2053 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 00:52:59.2641 Info Adding target FileTarget(Name=alldata)
+2021-01-08 00:52:59.2751 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 00:52:59.3260 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 01:01:59.2159 Info Message Template Auto Format enabled
+2021-01-08 01:01:59.2285 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 01:01:59.2753 Info Adding target FileTarget(Name=alldata)
+2021-01-08 01:01:59.2855 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 01:01:59.3182 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 01:22:09.2843 Info Message Template Auto Format enabled
+2021-01-08 01:22:09.2843 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 01:22:09.3536 Info Adding target FileTarget(Name=alldata)
+2021-01-08 01:22:09.3616 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 01:22:09.4014 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 01:25:46.6172 Info Message Template Auto Format enabled
+2021-01-08 01:25:46.6300 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 01:25:46.6750 Info Adding target FileTarget(Name=alldata)
+2021-01-08 01:25:46.6750 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 01:25:46.7184 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 01:28:59.1112 Info Message Template Auto Format enabled
+2021-01-08 01:28:59.1251 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 01:28:59.1765 Info Adding target FileTarget(Name=alldata)
+2021-01-08 01:28:59.1765 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 01:28:59.2284 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 01:30:36.6759 Info Message Template Auto Format enabled
+2021-01-08 01:30:36.6759 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 01:30:36.7446 Info Adding target FileTarget(Name=alldata)
+2021-01-08 01:30:36.7521 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 01:30:36.7907 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 01:31:54.5301 Info Message Template Auto Format enabled
+2021-01-08 01:31:54.5421 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 01:31:54.5903 Info Adding target FileTarget(Name=alldata)
+2021-01-08 01:31:54.5980 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 01:31:54.6354 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 01:33:10.5686 Info Message Template Auto Format enabled
+2021-01-08 01:33:10.5807 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 01:33:10.6267 Info Adding target FileTarget(Name=alldata)
+2021-01-08 01:33:10.6342 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 01:33:10.6694 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 01:35:39.6564 Info Message Template Auto Format enabled
+2021-01-08 01:35:39.6703 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 01:35:39.7156 Info Adding target FileTarget(Name=alldata)
+2021-01-08 01:35:39.7235 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 01:35:39.7596 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 01:43:56.5985 Info Message Template Auto Format enabled
+2021-01-08 01:43:56.5985 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 01:43:56.6643 Info Adding target FileTarget(Name=alldata)
+2021-01-08 01:43:56.6643 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 01:43:56.7140 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 01:47:18.2225 Info Message Template Auto Format enabled
+2021-01-08 01:47:18.2225 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 01:47:18.2837 Info Adding target FileTarget(Name=alldata)
+2021-01-08 01:47:18.2837 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 01:47:18.3242 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 01:49:42.3689 Info Message Template Auto Format enabled
+2021-01-08 01:49:42.3823 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 01:49:42.4291 Info Adding target FileTarget(Name=alldata)
+2021-01-08 01:49:42.4291 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 01:49:42.4694 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 01:54:14.7165 Info Message Template Auto Format enabled
+2021-01-08 01:54:14.8246 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 01:54:14.8780 Info Adding target FileTarget(Name=alldata)
+2021-01-08 01:54:14.8780 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 01:54:14.9291 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 02:07:30.1436 Info Message Template Auto Format enabled
+2021-01-08 02:07:30.1436 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 02:07:30.2011 Info Adding target FileTarget(Name=alldata)
+2021-01-08 02:07:30.2088 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 02:07:30.2427 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 02:15:17.0759 Info Message Template Auto Format enabled
+2021-01-08 02:15:17.0890 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 02:15:17.1340 Info Adding target FileTarget(Name=alldata)
+2021-01-08 02:15:17.1340 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 02:15:17.1740 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 02:25:46.4522 Info Message Template Auto Format enabled
+2021-01-08 02:25:46.4644 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 02:25:46.5092 Info Adding target FileTarget(Name=alldata)
+2021-01-08 02:25:46.5092 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 02:25:46.5472 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 02:27:45.3661 Info Message Template Auto Format enabled
+2021-01-08 02:27:45.3805 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 02:27:45.4371 Info Adding target FileTarget(Name=alldata)
+2021-01-08 02:27:45.4441 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 02:27:45.4776 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 02:40:06.8181 Info Message Template Auto Format enabled
+2021-01-08 02:40:06.8350 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 02:40:06.8793 Info Adding target FileTarget(Name=alldata)
+2021-01-08 02:40:06.8793 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 02:40:06.9203 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 09:07:40.2363 Info Message Template Auto Format enabled
+2021-01-08 09:07:40.2590 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 09:07:40.3346 Info Adding target FileTarget(Name=alldata)
+2021-01-08 09:07:40.3565 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 09:07:40.4062 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 09:12:23.1507 Info Message Template Auto Format enabled
+2021-01-08 09:12:23.1640 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 09:12:23.2122 Info Adding target FileTarget(Name=alldata)
+2021-01-08 09:12:23.2122 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 09:12:23.2566 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 09:17:00.5812 Info Message Template Auto Format enabled
+2021-01-08 09:17:00.5812 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 09:17:00.6414 Info Adding target FileTarget(Name=alldata)
+2021-01-08 09:17:00.6488 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 09:17:00.6810 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 09:23:06.1714 Info Message Template Auto Format enabled
+2021-01-08 09:23:06.1843 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 09:23:06.2381 Info Adding target FileTarget(Name=alldata)
+2021-01-08 09:23:06.2381 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 09:23:06.2774 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 09:34:48.3094 Info Message Template Auto Format enabled
+2021-01-08 09:34:48.3371 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 09:34:48.4251 Info Adding target FileTarget(Name=alldata)
+2021-01-08 09:34:48.4251 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 09:34:48.5025 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 09:43:42.4020 Info Message Template Auto Format enabled
+2021-01-08 09:43:42.4152 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 09:43:42.4626 Info Adding target FileTarget(Name=alldata)
+2021-01-08 09:43:42.4626 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 09:43:42.5030 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 10:05:41.0959 Info Message Template Auto Format enabled
+2021-01-08 10:05:41.0959 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 10:05:41.1705 Info Adding target FileTarget(Name=alldata)
+2021-01-08 10:05:41.2094 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 10:05:41.2544 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 10:07:49.1872 Info Message Template Auto Format enabled
+2021-01-08 10:07:49.2071 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 10:07:49.2772 Info Adding target FileTarget(Name=alldata)
+2021-01-08 10:07:49.2772 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 10:07:49.3146 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 10:15:30.7652 Info Message Template Auto Format enabled
+2021-01-08 10:15:30.7861 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 10:15:30.8555 Info Adding target FileTarget(Name=alldata)
+2021-01-08 10:15:30.8649 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 10:15:30.9179 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 10:17:56.0855 Info Message Template Auto Format enabled
+2021-01-08 10:17:56.0994 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 10:17:56.1520 Info Adding target FileTarget(Name=alldata)
+2021-01-08 10:17:56.1597 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 10:17:56.1916 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 10:24:20.4667 Info Message Template Auto Format enabled
+2021-01-08 10:24:20.4813 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 10:24:20.5461 Info Adding target FileTarget(Name=alldata)
+2021-01-08 10:24:20.5552 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 10:24:20.6066 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 10:31:05.3728 Info Message Template Auto Format enabled
+2021-01-08 10:31:05.3853 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 10:31:05.4310 Info Adding target FileTarget(Name=alldata)
+2021-01-08 10:31:05.4310 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 10:31:05.4707 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 10:33:21.6473 Info Message Template Auto Format enabled
+2021-01-08 10:33:21.6586 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 10:33:21.7021 Info Adding target FileTarget(Name=alldata)
+2021-01-08 10:33:21.7092 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 10:33:21.7430 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 10:35:36.3892 Info Message Template Auto Format enabled
+2021-01-08 10:35:36.4027 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 10:35:36.4506 Info Adding target FileTarget(Name=alldata)
+2021-01-08 10:35:36.4573 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 10:35:36.4884 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 10:36:41.2044 Info Message Template Auto Format enabled
+2021-01-08 10:36:41.2159 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 10:36:41.2608 Info Adding target FileTarget(Name=alldata)
+2021-01-08 10:36:41.2680 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 10:36:41.2992 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 10:54:37.4421 Info Message Template Auto Format enabled
+2021-01-08 10:54:37.4599 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 10:54:37.5176 Info Adding target FileTarget(Name=alldata)
+2021-01-08 10:54:37.5176 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 10:54:37.5931 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 10:55:19.0141 Info Message Template Auto Format enabled
+2021-01-08 10:55:19.0265 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 10:55:19.0705 Info Adding target FileTarget(Name=alldata)
+2021-01-08 10:55:19.0705 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 10:55:19.1088 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 10:56:00.8593 Info Message Template Auto Format enabled
+2021-01-08 10:56:00.8773 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 10:56:00.9449 Info Adding target FileTarget(Name=alldata)
+2021-01-08 10:56:00.9449 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 10:56:00.9957 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 11:02:55.9065 Info Message Template Auto Format enabled
+2021-01-08 11:02:55.9211 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 11:02:55.9782 Info Adding target FileTarget(Name=alldata)
+2021-01-08 11:02:55.9860 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 11:02:56.0304 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 11:10:04.3008 Info Message Template Auto Format enabled
+2021-01-08 11:10:04.3355 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 11:10:04.4282 Info Adding target FileTarget(Name=alldata)
+2021-01-08 11:10:04.4426 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 11:10:04.4938 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 11:19:09.1099 Info Message Template Auto Format enabled
+2021-01-08 11:19:09.1218 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 11:19:09.1664 Info Adding target FileTarget(Name=alldata)
+2021-01-08 11:19:09.1664 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 11:19:09.2055 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 11:22:45.7066 Info Message Template Auto Format enabled
+2021-01-08 11:22:45.7066 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 11:22:45.7750 Info Adding target FileTarget(Name=alldata)
+2021-01-08 11:22:45.7832 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 11:22:45.8188 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 11:24:18.5785 Info Message Template Auto Format enabled
+2021-01-08 11:24:18.5902 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 11:24:18.6331 Info Adding target FileTarget(Name=alldata)
+2021-01-08 11:24:18.6331 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 11:24:18.6726 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 11:38:46.1004 Info Message Template Auto Format enabled
+2021-01-08 11:38:46.1360 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 11:38:46.2347 Info Adding target FileTarget(Name=alldata)
+2021-01-08 11:38:46.2510 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 11:38:46.3198 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 11:41:22.6269 Info Message Template Auto Format enabled
+2021-01-08 11:41:22.6401 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 11:41:22.6902 Info Adding target FileTarget(Name=alldata)
+2021-01-08 11:41:22.6975 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 11:41:22.7336 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 11:49:11.3109 Info Message Template Auto Format enabled
+2021-01-08 11:49:11.3294 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 11:49:11.3849 Info Adding target FileTarget(Name=alldata)
+2021-01-08 11:49:11.3849 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 11:49:11.4264 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 11:51:28.2791 Info Message Template Auto Format enabled
+2021-01-08 11:51:28.2915 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 11:51:28.3424 Info Adding target FileTarget(Name=alldata)
+2021-01-08 11:51:28.3491 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 11:51:28.3871 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 11:53:04.6257 Info Message Template Auto Format enabled
+2021-01-08 11:53:04.6391 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 11:53:04.6946 Info Adding target FileTarget(Name=alldata)
+2021-01-08 11:53:04.6946 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 11:53:04.7396 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 11:57:25.3966 Info Message Template Auto Format enabled
+2021-01-08 11:57:25.4111 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 11:57:25.4656 Info Adding target FileTarget(Name=alldata)
+2021-01-08 11:57:25.4725 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 11:57:25.5074 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config
+2021-01-08 11:58:09.7038 Info Message Template Auto Format enabled
+2021-01-08 11:58:09.7201 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-08 11:58:09.7912 Info Adding target FileTarget(Name=alldata)
+2021-01-08 11:58:09.7912 Info Adding target FileTarget(Name=otherFile-web)
+2021-01-08 11:58:09.8350 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\Dell\source\repos\Teste-K2iP\bin\Debug\netcoreapp3.1\nlog.config

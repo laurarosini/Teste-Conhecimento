@@ -1,0 +1,49 @@
+2021-01-06 13:52:08.8818||DEBUG|Teste_K2iP.Program|init main function 
+2021-01-06 13:52:11.4529||INFO|Teste_K2iP.Controllers.HomeController|HomeController.Index method called!!! 
+2021-01-06 13:52:22.5649||INFO|Teste_K2iP.Controllers.HomeController|HomeController.Index method called!!! 
+2021-01-06 13:52:39.2993||INFO|Teste_K2iP.Controllers.HomeController|HomeController.Index method called!!! 
+2021-01-06 14:12:33.6050||DEBUG|Teste_K2iP.Program|init main function 
+2021-01-06 14:13:33.0635||DEBUG|Teste_K2iP.Program|init main function 
+2021-01-06 14:13:49.6569|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.Exception: Erro proposital!
+   at Teste_K2iP.Controllers.HomeController.Index() in C:\Users\Dell\source\repos\Teste-K2iP\Controllers\HomeController.cs:line 22
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-01-06 14:15:34.4181||DEBUG|Teste_K2iP.Program|init main function 
+2021-01-06 14:16:09.6045||DEBUG|Teste_K2iP.Program|init main function 
+2021-01-06 14:17:56.0116||DEBUG|Teste_K2iP.Program|init main function 
+2021-01-06 14:19:57.8040||DEBUG|Teste_K2iP.Program|init main function 
+2021-01-06 14:20:03.2185||INFO|Teste_K2iP.Controllers.HomeController|HomeController.Index method called!!! 
+2021-01-06 14:45:05.6461||DEBUG|Teste_K2iP.Program|init main function 
+2021-01-06 15:17:04.1971||DEBUG|Teste_K2iP.Program|init main function 
+2021-01-06 15:17:06.3400||INFO|Teste_K2iP.Controllers.HomeController|HomeController.Index method called!!! 
+2021-01-06 15:27:08.5336||INFO|Teste_K2iP.Controllers.HomeController|HomeController.Index method called!!! 
+2021-01-06 15:39:56.1049||DEBUG|Teste_K2iP.Program|init main function 
+2021-01-06 15:40:01.1702||INFO|Teste_K2iP.Controllers.HomeController|HomeController.Index method called!!! 
+2021-01-06 16:25:36.5652||DEBUG|Teste_K2iP.Program|init main function 
+2021-01-06 16:25:38.7659||INFO|Teste_K2iP.Controllers.HomeController|HomeController.Index method called!!! 
+2021-01-06 16:51:02.0972||DEBUG|Teste_K2iP.Program|init main function 
+2021-01-06 16:51:05.9453||INFO|Teste_K2iP.Controllers.HomeController|HomeController.Index method called!!! 
+2021-01-06 17:01:23.2563||DEBUG|Teste_K2iP.Program|init main function 
+2021-01-06 17:01:25.6655||INFO|Teste_K2iP.Controllers.HomeController|HomeController.Index method called!!! 
+2021-01-06 17:04:54.5060||INFO|Teste_K2iP.Controllers.HomeController|HomeController.Index method called!!! 
+2021-01-06 17:06:11.9867||DEBUG|Teste_K2iP.Program|init main function 
+2021-01-06 17:06:13.3413||INFO|Teste_K2iP.Controllers.HomeController|HomeController.Index method called!!! 
+2021-01-06 17:06:22.1325||INFO|Teste_K2iP.Controllers.HomeController|HomeController.Index method called!!! 
